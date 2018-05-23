@@ -1,0 +1,102 @@
+First 4 Classes               -> (Main Role/Secondary Role)
+- Warrior (Melee only)        -> Tank/DPS
+- Ranger (Ranged only)        -> DPS/Supp
+- Green Mage* (Ranged only)   -> Supp/Tank
+- Arcane Mage* (Ranged/Melee) -> DPS/Scout
+
+(*) - Temporary name;
+
+
+
+Classes Explained:
+
+Warrior:
+o)--------------------------------------------------------------------------------------------------------(o
+
+-o Warrior can either be played mainly as a Tank or as a Damage Dealer.
+   This will depend on the item build you're using.
+
+   Main Spec: Tank
+   - Main Weapon: Long Sword/Giant Shield(Two-Handed);
+   - Off-Hand: Regular Shield;
+   - Focus on mob threat or spook
+      (when at low level zones/raids mobs will flee/hide from you, except bosses);
+   - High Defense, Low Mobility, High Crowd Control;
+
+   Secondary Spec: DPS(Damage Dealer)
+   - Main Weapon: Long Sword/Great Sword(Two-Handed)/Double-Axe(Two-Handed)/Battle-Axe(Two-Handed);
+   - Off-Hand: Regular Shield;
+   - Focus on damage dealing;
+   - Medium Defense, Medium Mobility, Low Crowd Control, High Critical Chance%;
+
+o)--------------------------------------------------------------------------------------------------------(o
+
+
+
+Ranger:
+o)--------------------------------------------------------------------------------------------------------(o
+
+-o Ranger can either be played mainly as a Damage Dealer using ranged weapons to do so
+   or as a Support by using Chemical Infused Bombs to either heal/buff allies, CC Mobs
+   or reveal mob weaknesses (doing this will give you and your allies 100% critical chance
+   + Nx Critical Attack Damage for a few seconds, depends on the mob).
+
+   Main Spec: DPS(Damage Dealer)
+   - Main Weapon: (Two-Handed only) Bow/Crossbow/Throwing Knives;
+   - Off-Hand: none;
+   - Focus on damage dealing;
+   - Low Defense, High Mobility, Low Control, High Critical Chance(%);
+
+   Secondary Spec: Support
+   - Main Weapon: Grenades(Automatic Explosion, Two-Handed)/Remote Grenades(using RD off-hand);
+   - Off-Hand: Remote Detonator;
+   - Focus on Party Enhance and Crowd Control;
+   - Medium Defense, Hyper Mobility, High Crowd Control, No Damage;
+
+o)--------------------------------------------------------------------------------------------------------(o
+
+
+
+Green Mage:
+o)--------------------------------------------------------------------------------------------------------(o
+
+-o Green Mage can either be played mainly as a Support using Staves to do so or as a Tank by using
+   Almanaks/Grimoires to generate massive protective auras that will increase your Hp and Resistances
+   and threat generation.
+
+   Main Spec: Support
+   - Main Weapon: Staff/Great Staff;
+   - Off-Hand: Ritual Knife (with staff only);
+   - Focus on Party Enhance and Crowd Control;
+   - Low Defense, Medium Mobility, Medium Crowd Control, Medium Damage;
+
+   Secondary Spec: Tank
+   - Main Weapon: Almanak(Two-Handed)/Grimoire;
+   - Off-Hand: Arcane Orb(with Grimoire only);
+   - Focus on mob threat or spook
+      (when at low level zones/raids mobs will flee/hide from you, except bosses);
+   - Hyper Defense, Low Mobility, Lowest Crowd Control(1 skill/combo), Low Damage;
+
+o)--------------------------------------------------------------------------------------------------------(o
+
+
+(WIP + Rip + GameUpdate1)
+Arcane Mage:
+o)--------------------------------------------------------------------------------------------------------(o
+
+-o Arcane Mage can either be played mainly as a Damage Dealer using Aetherical Armor* to do so or as Scout by using
+   Aetherical Orbs*.
+
+   Main Spec: Damage Dealer
+   - Main Weapon: Aetherical Armor*;
+   - Off-Hand: None;
+   - Focus on Party Enhance and Crowd Control;
+   - Lowest Defense, Medium Mobility, Low Crowd Control, Hyper Damage;
+
+   Secondary Spec: Scout
+   - Main Weapon: Aetherical Orbs*;
+   - Off-Hand: None;
+   - Focus on raid Utility and Progress Acceleration;
+   - No Defense, Hyper Mobility, Hyper Crowd Control, Low Damage;
+
+o)--------------------------------------------------------------------------------------------------------(o

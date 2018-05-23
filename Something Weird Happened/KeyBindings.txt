@@ -1,0 +1,38 @@
+o)------------------------------------------------(o
+Basic Movement:
+Walking           -> W/A/S/D
+Runing            -> W/A/S/D + Shift
+Dash              -> 2x(W/A/S/D)
+Interact(OOC)     -> F
+o)------------------------------------------------(o
+####################################################
+o)------------------------------------------------(o
+Combat:
+Primary Skill     -> LMB
+Secondary Skill   -> RMB
+
+Dodge Skill 1     -> Q
+Dodge Skill 2     -> E
+
+Skill 1           -> 1
+Skill 2           -> 2
+Skill 3           -> 3
+Skill 4           -> 4
+Skill 5           -> R
+
+CC Skill 1        -> V
+CC Skill 2        -> C
+
+Skill Effect(CM)  -> F
+
+Ultimate Skill    -> TAB
+o)------------------------------------------------(o
+####################################################
+o)------------------------------------------------(o
+UI:
+Main Menu         -> ESC
+Inventory         -> I
+Character         -> P
+Social            -> O
+Map               -> M
+Chat Window       -> Enter

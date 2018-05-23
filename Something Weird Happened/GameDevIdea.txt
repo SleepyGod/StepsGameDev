@@ -1,0 +1,26 @@
+RPG
+Story Driven Leveling; EndGame-Grind, Raids/Dungeons and public events
+
+Player will only be able to travel to another Reality after a massive story event. (Early-Mid Story)
+
+Environment:
+Multi Dimension Maps with different versions of a single world, this includes
+Raids and Dungeons (part of the game mechanics where the player has to switch
+between realities to finish a single task...).
+
+Early GEnv(1st Reality):
+- Green Plains, calm/warm setting, mostly passive mobs.
+
+GEnv (2nd Reality):
+- Psycadelic world, purple tones, 50/50 on mob aggressiveness.
+
+GEnv (3rd Reality):
+- Spirit Realm, dark place overall... this is where people of the first realm go
+when they "die". No mobs, only 1 boss(Also an EndGame-Raid, boss becomes OP by then).
+
+GEnv (4th Reality):
+- White Space(or is it?)(Special Raid-Item Driven space)
+
+Crafting System Idea:
+-  Different weapon parts means a new world of customization...
+   based on base material, which will determine the main weapon-stats and main weapon-color;

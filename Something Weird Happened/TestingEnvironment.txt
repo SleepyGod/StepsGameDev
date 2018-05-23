@@ -1,0 +1,8 @@
+Testing Environment:
+-< Stair-like objects;
+-< Objects with height = player.MaxJumpHeight;
+-< Interactive objects:
+      o  Ground-level buttons;
+      o  Wall Buttons;
+      o  Dialog-switch Objects;
+      o  Random Loot Dispenser;
