@@ -1,8 +1,7 @@
-- MOBA or Battle Royale (to be discussed);
-- Any Attack/Skill can 1 shot, the enemy;
+- MOBA;
+- Any Attack/Skill can 1 shot the enemy if well executed;
 - Team up or play solo;
 - Friendly fire is on (be careful);
 
 
 - AOE Time Slow, caster moves at the same speed but anyone caught in it will slow down.
-- 
