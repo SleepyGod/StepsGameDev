@@ -2,3 +2,7 @@
 - Any Attack/Skill can 1 shot, the enemy;
 - Team up or play solo;
 - Friendly fire is on (be careful);
+
+
+- AOE Time Slow, caster moves at the same speed but anyone caught in it will slow down.
+- 
